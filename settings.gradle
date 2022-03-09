@@ -1,0 +1,3 @@
+rootProject.name='sam9'
+include 'app1'
+include 'app2'
